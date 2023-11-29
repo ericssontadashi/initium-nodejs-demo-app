@@ -1,0 +1,10 @@
+app-name: initium-nodejs-demo-app
+container-registry: ghcr.io/ericssontadashi
+default-branch: main
+dockerfile-name: null
+env-var-file: .env.initium
+image-pull-secrets: null
+private: false
+project-type: node
+runtime-version: null
+secret-ref-env-var-file: .env.secretref.initium
